@@ -1,0 +1,13 @@
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/Pessoa.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/Usuario.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/SeadraApplication.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/PessoaBuscaDTO.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/controller/PessoaController.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/PessoaBuscaPacienteDTO.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/PessoaBuscaFuncionarioDTO.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/services/PessoaServiceImplements.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/TipoPessoa.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/common/Perfil.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/services/PessoaService.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/Instantiation.java
+/home/junior/dev/@Java/seadra/seadra-reative/src/main/java/br/seadra/repository/PessoaRepository.java
